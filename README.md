@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/varunvermaa/leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/varunvermaa/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
+| [0937-online-stock-span](https://github.com/varunvermaa/leetcode-practice/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/varunvermaa/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
+| [0937-online-stock-span](https://github.com/varunvermaa/leetcode-practice/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varunvermaa/leetcode-practice/tree/master/0001-two-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/varunvermaa/leetcode-practice/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/varunvermaa/leetcode-practice/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
