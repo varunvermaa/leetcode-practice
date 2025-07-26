@@ -113,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/varunvermaa/leetcode-practice/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/varunvermaa/leetcode-practice/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/varunvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/varunvermaa/leetcode-practice/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
