@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/varunvermaa/leetcode-practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/varunvermaa/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/varunvermaa/leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0735-asteroid-collision](https://github.com/varunvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/varunvermaa/leetcode-practice/tree/master/0937-online-stock-span) |
 ## Design
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/varunvermaa/leetcode-practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/varunvermaa/leetcode-practice/tree/master/0015-3sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/varunvermaa/leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0735-asteroid-collision](https://github.com/varunvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/varunvermaa/leetcode-practice/tree/master/0007-reverse-integer) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/varunvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
