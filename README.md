@@ -65,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varunvermaa/leetcode-practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/varunvermaa/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/varunvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/varunvermaa/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/varunvermaa/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/varunvermaa/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/varunvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/varunvermaa/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
