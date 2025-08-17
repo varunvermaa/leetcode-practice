@@ -19,7 +19,7 @@ public:
         queue<TreeNode*> q;
         q.push(root);
         
-        while(q.size()>0){
+        while(!q.empty()){
             int s = q.size();
             vector<int> l;
             for(int i = 0; i<s; i++){
