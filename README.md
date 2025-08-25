@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/varunvermaa/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/varunvermaa/leetcode-practice/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varunvermaa/leetcode-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/varunvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/varunvermaa/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/varunvermaa/leetcode-practice/tree/master/0007-reverse-integer) |
 ## Simulation
 |  |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunvermaa/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/varunvermaa/leetcode-practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
