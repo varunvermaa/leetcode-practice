@@ -11,21 +11,34 @@
  */
 class Solution {
 public:
-    int count = 0;
+    // int count = 0;
     
-    int a;
-    void helper(TreeNode* root, int k){
-        if(root==NULL) return;
-        helper(root->left,k);
-        count++;
-        if(count == k) a = root->val;
-        helper(root->right,k);
-        return;
-    }
-    int kthSmallest(TreeNode* root, int k) {
-        helper(root, k);
-        return a;
+    // int a;
+    // void helper(TreeNode* root, int k){
+    //     if(root==NULL) return;
+    //     helper(root->left,k);
+    //     count++;
+    //     if(count == k) a = root->val;
+    //     helper(root->right,k);
+    //     return;
+    // }
 
-        
+    void inorder(TreeNode* root, int& k, int& ans){
+        if(root==NULL) return;
+        inorder(root->left, k, ans);
+        k--;
+        if(k==0){
+            ans = root->val;
+            return;
+        }
+        if(k>0) inorder(root->right, k, ans);
+    }
+
+
+    int kthSmallest(TreeNode* root, int k) {
+        int ans=-1;
+        inorder(root, k, ans);
+        return ans;
+       
     }
 };
