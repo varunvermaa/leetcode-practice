@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/varunvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/varunvermaa/leetcode-practice/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/varunvermaa/leetcode-practice/tree/master/0943-sum-of-subarray-minimums) |
+| [1078-remove-outermost-parentheses](https://github.com/varunvermaa/leetcode-practice/tree/master/1078-remove-outermost-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/varunvermaa/leetcode-practice/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/varunvermaa/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0257-binary-tree-paths](https://github.com/varunvermaa/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/varunvermaa/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [1078-remove-outermost-parentheses](https://github.com/varunvermaa/leetcode-practice/tree/master/1078-remove-outermost-parentheses) |
 ## Sorting
 |  |
 | ------- |
