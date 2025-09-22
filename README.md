@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varunvermaa/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/varunvermaa/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0257-binary-tree-paths](https://github.com/varunvermaa/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/varunvermaa/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/varunvermaa/leetcode-practice/tree/master/1078-remove-outermost-parentheses) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/varunvermaa/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/varunvermaa/leetcode-practice/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/varunvermaa/leetcode-practice/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/varunvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/varunvermaa/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/varunvermaa/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/varunvermaa/leetcode-practice/tree/master/0943-sum-of-subarray-minimums) |
 ## Divide and Conquer
