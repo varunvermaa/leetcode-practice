@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/varunvermaa/leetcode-practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/varunvermaa/leetcode-practice/tree/master/0015-3sum) |
+| [0054-spiral-matrix](https://github.com/varunvermaa/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/varunvermaa/leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varunvermaa/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunvermaa/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/varunvermaa/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/varunvermaa/leetcode-practice/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/varunvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
 ## Sliding Window
@@ -242,5 +244,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/varunvermaa/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/varunvermaa/leetcode-practice/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
