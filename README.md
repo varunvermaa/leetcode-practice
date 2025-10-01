@@ -115,10 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/varunvermaa/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/varunvermaa/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/varunvermaa/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/varunvermaa/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/varunvermaa/leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varunvermaa/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunvermaa/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/varunvermaa/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0566-reshape-the-matrix](https://github.com/varunvermaa/leetcode-practice/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/varunvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/varunvermaa/leetcode-practice/tree/master/0943-sum-of-subarray-minimums) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/varunvermaa/leetcode-practice/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/varunvermaa/leetcode-practice/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/varunvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/varunvermaa/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
