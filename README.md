@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/varunvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/varunvermaa/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/varunvermaa/leetcode-practice/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3227-find-missing-and-repeated-values](https://github.com/varunvermaa/leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/varunvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/varunvermaa/leetcode-practice/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/varunvermaa/leetcode-practice/tree/master/2227-sum-of-subarray-ranges) |
+| [3227-find-missing-and-repeated-values](https://github.com/varunvermaa/leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/varunvermaa/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/varunvermaa/leetcode-practice/tree/master/0007-reverse-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/varunvermaa/leetcode-practice/tree/master/2032-largest-odd-number-in-string) |
+| [3227-find-missing-and-repeated-values](https://github.com/varunvermaa/leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -250,4 +253,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/varunvermaa/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/varunvermaa/leetcode-practice/tree/master/0566-reshape-the-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/varunvermaa/leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
