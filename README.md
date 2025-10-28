@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/varunvermaa/leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/varunvermaa/leetcode-practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/varunvermaa/leetcode-practice/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varunvermaa/leetcode-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/varunvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/varunvermaa/leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/varunvermaa/leetcode-practice/tree/master/0024-swap-nodes-in-pairs) |
 ## Greedy
 |  |
 | ------- |
