@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/varunvermaa/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/varunvermaa/leetcode-practice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/varunvermaa/leetcode-practice/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/varunvermaa/leetcode-practice/tree/master/0050-powx-n) |
 | [2032-largest-odd-number-in-string](https://github.com/varunvermaa/leetcode-practice/tree/master/2032-largest-odd-number-in-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/varunvermaa/leetcode-practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/varunvermaa/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/varunvermaa/leetcode-practice/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/varunvermaa/leetcode-practice/tree/master/0050-powx-n) |
 ## Greedy
 |  |
 | ------- |
