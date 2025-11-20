@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/varunvermaa/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/varunvermaa/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/varunvermaa/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/varunvermaa/leetcode-practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/varunvermaa/leetcode-practice/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/varunvermaa/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/varunvermaa/leetcode-practice/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/varunvermaa/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/varunvermaa/leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
