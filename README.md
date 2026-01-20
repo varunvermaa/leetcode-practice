@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/varunvermaa/leetcode-practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/varunvermaa/leetcode-practice/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/varunvermaa/leetcode-practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/varunvermaa/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/varunvermaa/leetcode-practice/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/varunvermaa/leetcode-practice/tree/master/0054-spiral-matrix) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/varunvermaa/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/varunvermaa/leetcode-practice/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/varunvermaa/leetcode-practice/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/varunvermaa/leetcode-practice/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/varunvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/varunvermaa/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
